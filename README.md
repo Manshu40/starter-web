@@ -17,6 +17,8 @@ Many Things change
 develope  is our only goal so develope more and more softwares
 modifing this file for the last time
  
+ Please forkk this repository and that isue pull request for review
+ 
 ## Copyright
 
 Git Training 
