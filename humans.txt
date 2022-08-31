@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manshu Khinchyal Manshu@git.training manshu40.
 
 # THANKS
 
